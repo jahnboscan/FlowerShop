@@ -1,0 +1,15 @@
+body{
+
+background-image: url('floristeriafondo.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: 100% 100%;
+
+
+}
+
+.Descripcion{
+
+color: red;
+
+}
