@@ -1,15 +1,45 @@
-body{
+body, html{
 
-background-image: url('floristeriafondo.jpg');
+height: 100%;
+background-color: lightblue;
+
+}
+
+.bg{
+/* Altura */
+height: 60%;
+/* Centrar y escalar imagen */
+background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-background-attachment: 100% 100%;
 
+}
+
+.topnav {
+
+overflow: hidden;
 
 }
 
 .Descripcion{
 
-color: red;
 
+float: right;
+
+}
+
+.topnav a{
+padding: 10px 10px;
+color: orange;
+font-size: 18px;
+
+}
+
+.bottom{
+
+  border: 1px solid LightGrey;
+  padding: 800px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
 }
